@@ -7,7 +7,7 @@ const Pino = require('pino');
 const { state, saveState } = useSingleFileAuthState('./Auth/Keerthana.json');
 
 async function connectToWhatsApp() {
-   
+    console.log('open ayyi')
     const { version, isLatest } = await fetchLatestBaileysVersion();
     const Ammu = WASocket({
         printQRInTerminal: true,
