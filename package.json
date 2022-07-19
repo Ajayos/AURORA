@@ -27,9 +27,6 @@
     "url": "https://github.com/Ajay-o-s/Keerthana/issues"
   },
   "homepage": "https://github.com/Ajay-o-s/Keerthana#readme",
-  "devdependencies": {
-    "supervisor": "^0.12.0"
-  },
   "dependencies": {
     "@adiwajshing/baileys": "^4.2.0",
     "@hapi/boom": "^10.0.0",
