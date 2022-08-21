@@ -2,6 +2,7 @@
 node_modules/
 jspm_packages/
 home/
+
 # dotenv environment variables file
 .env
 .env.test

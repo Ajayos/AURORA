@@ -2,10 +2,9 @@
 
 ## Supported Versions
 
-
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.0   | :hided code with multi function: |
+| 5.1.0   | :hided code with function: |
 | 5.1.x   | :code locked:                |
 
 ## Reporting a Vulnerability

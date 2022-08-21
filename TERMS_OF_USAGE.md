@@ -6,7 +6,6 @@ Last Updated: **GMT-5 19/07/2022**
 
 These terms of service ("Terms") apply to your access and use of **KEERTHANA.** Please read them carefully.
 
-
 ## Accepting these Terms
 
 If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by [**`mail`**](mailto:ajayosakhub@gmail.com) or reach me via [**`whatsapp`**](https://api.whatsapp.com/send?phone=919188346721&text='Hlo%20iam%20from%20github.com/Keerthana%20repo%20')
