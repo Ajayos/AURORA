@@ -1,0 +1,43 @@
+{
+    "name": "Keerthana",
+    "description": "WhatsApp Bot with Ai And frontend, made by Ajay o s",
+    "repository": "https://github.com/Ajay-o-s/Keerthana",
+    "logo": "https://github.com/Ajay-o-s.png",
+    "keywords": ["bot", "whatsapp", "whatsapp-bot", "Keerthana", "Ajay o s"],
+    "stack": "container",
+    "env": {
+        "USER_NAME": {
+            "description": "Enter Your Name for login to webpage",
+            "required": true
+        },
+        "PASSWORD": {
+            "description": "Enter password for login to webpage",
+            "required": true
+        },
+        "WEB_URL": {
+            "description": "Enter your page url",
+            "required": true
+        },
+        "HEROKU": {
+            "description": "If it is running in Heroku, type true.",
+            "required": true,
+            "value": "true"
+        },
+        "HEROKU_API_KEY": {
+            "description": "Heroku API Key.",
+            "required": true,
+            "value": ""
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Heroku APP Name.",
+            "required": true,
+            "value": ""
+        }
+    },
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [
+        { "url": "https://github.com/Ajay-o-s/heroku-buildpack-apt.git" } 
+    ]
+}
