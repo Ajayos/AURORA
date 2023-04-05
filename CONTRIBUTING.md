@@ -1,6 +1,6 @@
 # Contributing to Ajay o s
 
-When contributing to this repository, please first discuss the change you wish to make via [**`issue`**](https://github.com/Ajay-o-s/Keerthana/issues),
+When contributing to this repository, please first discuss the change you wish to make via [**`issue`**](https://github.com/Ajayos/Keerthana/issues),
 [**`mail`**](mailto:ajayosakhub@gmail.com), [**`whatsapp`**](https://api.whatsapp.com/send?phone=919188346721&text='Hlo%20iam%20from%20github.com/Keerthana%20repo%20') or any other method with the owners of this repository before making a change. 
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
@@ -13,7 +13,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 2. Update the README.md with details of changes to the interface, this includes new environment 
    variables, exposed ports, useful file locations and container parameters.
 3. Increase the version numbers in any examples files and the README.md to the new version that this
-   Pull Request would represent. The versioning scheme we use is [ReadMe](https://github.com/Ajay-o-s/blob/main/README.md).
+   Pull Request would represent. The versioning scheme we use is [ReadMe](https://github.com/Ajayos/blob/main/README.md).
 4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
    do not have permission to do that, you may request the second reviewer to merge it for you.
 
@@ -92,5 +92,5 @@ It is your responsibility to use these codes. We are not responsible for any bad
 
 ## For more information
 
-* Open an issue in [**`keerthana:issue`**](https://github.com/Ajay-o-s/Keerthana/issues)
+* Open an issue in [**`keerthana:issue`**](https://github.com/Ajayos/Keerthana/issues)
 * Email us at [**`email`**](mailto:ajayosakhub@gmail.com)

@@ -1,6 +1,6 @@
 # **KEERTHANA** TERMS OF USAGE
 
-Last Updated: **GMT-5 19/07/2022**
+Last Updated: **GMT-5 05/04/2023**
 
 `Copyright (c) 2022 Ajay o s`
 
@@ -40,7 +40,7 @@ If you discover or suspect any Service security breaches, please let us know as 
 
 ## Copyright Complaints
 
-We take intellectual property rights seriously. We have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers.` 2022 KEERTHANA All Rights Reserved. Copyright (c) 2022 Ajay o s`
+We take intellectual property rights seriously. We have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers.` 2023 KEERTHANA All Rights Reserved. Copyright (c) 2022 Ajay o s`
 
 
 ## Termination
