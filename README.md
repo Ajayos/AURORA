@@ -9,7 +9,7 @@ Keerthana is an AI-powered bot that can respond to messages on both WhatsApp and
 - JavaScript
 - TypeScript
 - Node.js
-- axios
+- Axios
 
 Keerthana can be customized to understand and respond to a wide range of user queries.
 
