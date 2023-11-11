@@ -8,3 +8,7 @@ home/
 .env.test
 config.env
 package-lock.json
+backup
+test
+tmp
+github

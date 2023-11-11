@@ -1,1 +1,0 @@
-yarn pbjs -t static-module -w commonjs -o ./src/SignalGroup/GroupProtocol.js ./src/SignalGroup/group.proto
