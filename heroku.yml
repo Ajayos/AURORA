@@ -1,0 +1,5 @@
+build:
+  docker:
+      start: Dockerfile
+run:
+   start: npm start

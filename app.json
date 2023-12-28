@@ -1,0 +1,31 @@
+{
+    "name": "aurora",
+    "description": "aurora Bot with Ai, made by Ajay o s",
+    "repository": "https://github.com/Ajayos/AURORA",
+    "logo": "https://github.com/cosmos-aurora.png",
+    "keywords": ["bot", "whatsapp", "whatsapp-bot", "aurora", "Ajay o s"],
+    "stack": "container",
+    "env": {
+        "HEROKU": {
+            "description": "If it is running in Heroku, type true.",
+            "required": true,
+            "value": "true"
+        },
+        "HEROKU_API_KEY": {
+            "description": "Heroku API Key.",
+            "required": true,
+            "value": ""
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Heroku APP Name.",
+            "required": true,
+            "value": ""
+        }
+    },
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [
+        { "url": "https://github.com/Ajayos/heroku-buildpack-apt.git" } 
+    ]
+}
