@@ -1,6 +1,6 @@
 # **AURORA** TERMS OF USAGE
 
-Last Updated: **GMT-5 28/12/2023**
+Last Updated: **GMT-5 13/1/2024**
 
 `Copyright (c) 2022 Ajay o s`
 
