@@ -73,7 +73,7 @@ This project is licensed under the [MIT License](https://github.com/Ajayos/Auror
 ## Project History
 
 - **Creation Date:** March 15, 2021
-- **Last Update:** Saturday, January 13, 2024 (IST)
+- **Last Update:** Friday, 16 February 2024 (IST)
 
 ## Copyright
 
@@ -83,7 +83,7 @@ This project is licensed under the [MIT License](https://github.com/Ajayos/Auror
  * https://github.com/Ajayos/Aurora
  * https://ajayos.github.io/Aurora
  * https://github.com/Ajayos/Aurora/wiki
- * CopyRight @Ajay o s 2022-2024
+ * CopyRight @Ajay o s 2021-2024
 ```
 
 
