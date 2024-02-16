@@ -1,0 +1,41 @@
+{
+  "name": "@ajayos/aurora",
+  "version": "5.2.4",
+  "description": "Aurora Chat Bot with AI tools built using Node.js.",
+  "main": "cmd.js",
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "bin": {
+    "aurora": "bin/init.js"
+  },
+  "scripts": {
+    "prepare": "node cmd.js init"
+  },
+  "author": "Ajay o s",
+  "license": "ISC",
+  "dependencies": {
+    "@ajayos/nodedb": "^1.1.0",
+    "@ajayos/nodelog": "github:ajayos/nodelog",
+    "@octokit/rest": "^20.0.2",
+    "buffer": "^6.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajayos/aurora.git"
+  },
+  "keywords": [
+    "Aurora",
+    "Ajay",
+    "Ajayos",
+    "bot",
+    "chatbot",
+    "whatsapp",
+    "home automation"
+  ],
+  "bugs": {
+    "url": "https://github.com/Ajayos/aurora/issues"
+  },
+  "homepage": "https://github.com/Ajayos/aurora#readme"
+}

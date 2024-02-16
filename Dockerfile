@@ -1,4 +1,11 @@
-FROM quay.io/Ajay_o_s/keerthana:latest
-RUN git clone https://github.com/Ajayos/aurora  /root/aurora/
-WORKDIR /root/aurora/
-CMD ["node", "index.js"]
+# Use the base image
+FROM ajayosak/aurora:latest
+
+# Set the working directory
+WORKDIR /AURORA
+
+# Install dependencies
+RUN npm i -f
+
+# Run npm init
+RUN npm run init

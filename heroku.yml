@@ -2,4 +2,4 @@ build:
   docker:
       start: Dockerfile
 run:
-   start: npm start
+   start: npm run init
