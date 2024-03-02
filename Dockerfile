@@ -8,4 +8,4 @@ WORKDIR /AURORA
 RUN npm i -f
 
 # Run npm init
-RUN npm run init
+RUN node cmd.js init
